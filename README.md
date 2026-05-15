@@ -57,8 +57,44 @@ fashion-store-miniapp
 
 ---
 
-# Author
+# Developer
 
 Ngô Nam Phong
 
 Software Development Student
+
+---
+
+# Screenshots
+
+## Home Page
+
+![Home](screenshots/home.png)
+
+## Product Detail
+
+![Detail](screenshots/detail.png)
+
+## Cart
+
+![Cart](screenshots/cart.png)
+
+## Checkout
+
+![Checkout](screenshots/checkout.png)
+
+## Orders
+
+![Orders](screenshots/orders.png)
+
+## Order Detail
+
+![Order Detail](screenshots/ordersdetail.png)
+
+## Favorites
+
+![Favorites](screenshots/favorites.png)
+
+## Member
+
+![Member](screenshots/member.png)
